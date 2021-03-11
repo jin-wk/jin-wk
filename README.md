@@ -49,8 +49,9 @@ Junior Software/Web Backend Developer 🌱
   <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-## Stats
 <div align="center">
+
+## Stats 📈
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin-wk&show_icons=true&theme=dracula)
 
