@@ -8,14 +8,10 @@
 
 <div align="center">
 
-## Backend Developer
-Junior Software/Web Backend Developer
+## Backend Developer ⭐
+Junior Software/Web Backend Developer 🌱
 
-</div>
-
-<div align="center">
-
-## Tech Stack
+## Tech Stack 📖
 
 </div>
 
