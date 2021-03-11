@@ -1,6 +1,6 @@
 <p>
   <a href="https://github.com/jin-wk">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=3DB7CC&height=200&section=header&text=Jinwook%20Lee&fontSize=50&fontColor=FFFFFF" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=078196&height=200&section=header&text=Jinwook%20Lee&fontSize=50&fontColor=FFFFFF" />
   </a>
 </p>
 <p align="center">
