@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## Backend Developer ⭐
+## JIN WOOK ⭐
 Junior Software/Web Backend Developer 🌱
 
 ## Tech Stack 📖
