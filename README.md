@@ -7,7 +7,7 @@
 <div align="left">
 
 ## JIN WOOK ⭐
-Junior Software/Web Backend Developer 🌱
+Back-End Web Developer 🌱
 
 ## Tech Stack 📖
 
