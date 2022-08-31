@@ -17,3 +17,7 @@
 ## Stats 📈
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin-wk&show_icons=true&count_private=true&theme=dracula)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
