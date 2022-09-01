@@ -20,9 +20,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-251%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-250%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -56,5 +56,5 @@ Go                       5 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 01/09/2022 01:31:10 UTC
+ Last Updated on 01/09/2022 15:19:28 UTC
 <!--END_SECTION:waka-->
