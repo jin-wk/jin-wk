@@ -10,7 +10,7 @@
   - Language: PHP, Python, Node.js
   - Framework: Laravel, FastAPI, Express
   - Data Storage: MySQL, Redis
-  - DevOps: AWS, Docker
+  - DevOps: AWS, Docker, Apache, Nginx
 
 ---
 
