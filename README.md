@@ -7,8 +7,8 @@
 ---
 
 ### Tech Stack
-  - Language: PHP, Python, Node.js
-  - Framework: Laravel, FastAPI, Express
+  - Language: PHP, Python, Javascript, Typescript
+  - Framework: Laravel, FastAPI, Node.js
   - Data Storage: MySQL, Redis
   - DevOps: AWS, Docker, Apache, Nginx
 
