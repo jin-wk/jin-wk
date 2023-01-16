@@ -14,7 +14,7 @@
 ---
 
 ### 📈 Stats
-![](https://github-readme-stats-git-masterrstaa-rickstaaa.vercel.app/api?username=jin-wk&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![]([https://github-readme-stats-git-masterrstaa-rickstaaa.vercel.app](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app)/api?username=jin-wk&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jin-wk&theme=dark&hide_border=true)<br/>
 
 ---
