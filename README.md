@@ -22,7 +22,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-206%20Thousand%20lines%20of%20code-blue)
 
@@ -32,13 +32,15 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      4 mins              ██████████████░░░░░░░░░░░   58.85% 
+TypeScript               3 mins              ██████████░░░░░░░░░░░░░░░   40.91% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      7 mins              █████████████████████████   100.0%
 
 ```
 
@@ -55,5 +57,5 @@ Go                       5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/01/2023 02:21:18 UTC
+ Last Updated on 28/01/2023 02:24:08 UTC
 <!--END_SECTION:waka-->
