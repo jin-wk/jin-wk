@@ -22,7 +22,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -32,13 +32,15 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 58 mins       █████████████████████░░░░   84.99 % 
+Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -54,5 +56,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/03/2023 02:09:13 UTC
+ Last Updated on 19/03/2023 02:19:56 UTC
 <!--END_SECTION:waka-->
