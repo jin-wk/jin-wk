@@ -10,8 +10,8 @@
 ### 💻 Tech Stack:
   - Language: PHP, Python, Typescript
   - Framework: Laravel, FastAPI, Express, Nest.js
-  - Data Storage: MySQL, Redis
-  - DevOps: AWS, Docker, Apache, Nginx
+  - Storage: MySQL, ElasticSearch, Redis
+  - DevOps: AWS, GCP, Docker
 
 ---
 
