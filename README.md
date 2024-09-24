@@ -22,7 +22,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C666%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C671%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
 
@@ -45,13 +45,17 @@ Sunday                   47 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 39 mins       ███████████████████░░░░░░   77.08 % 
+CSS                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+JavaScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -67,5 +71,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2024 02:17:44 UTC
+ Last Updated on 24/09/2024 02:18:01 UTC
 <!--END_SECTION:waka-->
