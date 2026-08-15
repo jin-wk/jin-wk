@@ -47,17 +47,17 @@ Sunday                   66 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               14 hrs 9 mins       ███████████████████████░░   91.69 % 
-CSS                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Go                       11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Prisma                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+TypeScript               8 hrs 59 mins       ███████████████████████░░   93.47 % 
+Go                       11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Prisma                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 26 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -79,5 +79,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 03:26:36 UTC
+ Last Updated on 15/08/2026 02:15:59 UTC
 <!--END_SECTION:waka-->
