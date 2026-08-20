@@ -22,22 +22,22 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C994%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C995%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.11%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.50%20million%20lines%20of%20code-blue?style=flat)
 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   3122 commits        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-Tuesday                  3006 commits        █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-Wednesday                2984 commits        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Thursday                 3302 commits        ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-Friday                   2257 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Saturday                 76 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Sunday                   66 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Monday                   3313 commits        █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Tuesday                  3186 commits        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Wednesday                3199 commits        █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+Thursday                 3424 commits        █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Friday                   2428 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Saturday                 76 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Sunday                   66 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 
 
@@ -47,18 +47,18 @@ Sunday                   66 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               3 hrs 30 mins       █████████████████████░░░░   83.27 % 
-Go                       15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Prisma                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+TypeScript               1 hr 54 mins        ████████████████████░░░░░   78.78 % 
+Go                       11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Prisma                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 42 mins       ██████████████████████░░░   87.76 % 
-Zed                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+VS Code                  1 hr 54 mins        ████████████████████░░░░░   78.67 % 
+Zed                      31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
 
 💻 Operating System: 
-Mac                      4 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -70,15 +70,15 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               31 repos            ████████████░░░░░░░░░░░░░   48.44 % 
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-Blade                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+TypeScript               32 repos            ████████████░░░░░░░░░░░░░   49.23 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Blade                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 
 
 
- Last Updated on 19/08/2026 02:18:56 UTC
+ Last Updated on 20/08/2026 02:19:01 UTC
 <!--END_SECTION:waka-->
