@@ -22,7 +22,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C017%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C020%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20mins-blue?style=flat)
 
@@ -31,11 +31,11 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   3675 commits        █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-Tuesday                  3601 commits        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Wednesday                3556 commits        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-Thursday                 3861 commits        █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-Friday                   2836 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Monday                   3675 commits        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+Tuesday                  3601 commits        █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+Wednesday                3556 commits        █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Thursday                 3865 commits        █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+Friday                   2844 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
 Saturday                 78 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 Sunday                   66 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
@@ -47,17 +47,18 @@ Sunday                   66 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               9 hrs 17 mins       █████████████████░░░░░░░░   67.36 % 
-JSON                     2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Bash                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-Prisma                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-TSConfig                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+TypeScript               10 hrs 43 mins      █████████████████░░░░░░░░   67.02 % 
+JSON                     2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Prisma                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+TSConfig                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 38 mins      █████████████████████░░░░   85.20 % 
+Zed                      2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
 
 💻 Operating System: 
-Mac                      13 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -79,5 +80,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 05:29:28 UTC
+ Last Updated on 04/09/2026 05:25:57 UTC
 <!--END_SECTION:waka-->
