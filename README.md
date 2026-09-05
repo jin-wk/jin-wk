@@ -22,7 +22,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C020%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C022%20hrs%2033%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20mins-blue?style=flat)
 
@@ -47,18 +47,18 @@ Sunday                   66 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               10 hrs 43 mins      █████████████████░░░░░░░░   67.02 % 
-JSON                     2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Prisma                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-TSConfig                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+TypeScript               11 hrs 35 mins      ████████████████████░░░░░   80.92 % 
+JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Prisma                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+jsonc                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 38 mins      █████████████████████░░░░   85.20 % 
-Zed                      2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+VS Code                  9 hrs 35 mins       █████████████████░░░░░░░░   67.05 % 
+Zed                      4 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   32.95 % 
 
 💻 Operating System: 
-Mac                      16 hrs              █████████████████████████   100.00 % 
+Mac                      14 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,5 +80,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 05:25:57 UTC
+ Last Updated on 05/09/2026 05:15:06 UTC
 <!--END_SECTION:waka-->
