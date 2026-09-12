@@ -47,18 +47,18 @@ Sunday                   66 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               10 hrs 8 mins       ████████████████░░░░░░░░░   65.71 % 
-YAML                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Docker                   1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+TypeScript               7 hrs 52 mins       ███████████████░░░░░░░░░░   60.21 % 
+YAML                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Docker                   1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 3 mins       ████████████████████░░░░░   78.04 % 
-Zed                      3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+VS Code                  12 hrs 2 mins       ███████████████████████░░   92.13 % 
+Zed                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 💻 Operating System: 
-Mac                      15 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,5 +80,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 05:38:02 UTC
+ Last Updated on 12/09/2026 05:24:16 UTC
 <!--END_SECTION:waka-->
