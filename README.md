@@ -47,40 +47,23 @@ Sunday                   66 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               7 hrs 29 mins       ███████████████████████░░   90.74 % 
-Prisma                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-SRecode Template         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+TypeScript               6 hrs 29 mins       ██████████████████████░░░   89.47 % 
+Prisma                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+SRecode Template         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 13 mins       █████████████████████████   99.59 % 
-Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+VS Code                  7 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (1.59%)
-
-✍️ 42 lines written by AI, 1,732 lines written by hand (2.37% AI-written)
-
-🔤 21,532 Input Tokens, 3,547 Output Tokens
-
-💵 $0.90 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 5 AI Prompts
-
-GPT                      42 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.37% of written lines came from AI
-📝 Concise Prompter — average 38 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 98.69% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,5 +79,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 05:47:57 UTC
+ Last Updated on 26/09/2026 05:50:02 UTC
 <!--END_SECTION:waka-->
