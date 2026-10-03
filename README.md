@@ -22,20 +22,20 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C074%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C078%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.68%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.72%20million%20lines%20of%20code-blue?style=flat)
 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   3854 commits        █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Tuesday                  3787 commits        █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Wednesday                3742 commits        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Thursday                 4096 commits        ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-Friday                   2999 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Monday                   3882 commits        █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+Tuesday                  3801 commits        █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Wednesday                3764 commits        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Thursday                 4115 commits        █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+Friday                   3023 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
 Saturday                 78 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 Sunday                   66 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
@@ -47,39 +47,39 @@ Sunday                   66 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               13 hrs 22 mins      █████████████████████░░░░   85.43 % 
-JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-Prisma                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-TSConfig                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+TypeScript               16 hrs 40 mins      █████████████████████░░░░   84.52 % 
+JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Prisma                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+TSConfig                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 34 mins      █████████████████████████   99.38 % 
-Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+VS Code                  19 hrs 24 mins      █████████████████████████   98.36 % 
+Codex Vscode             19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 💻 Operating System: 
-Mac                      15 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (0.74%)
+⏱ AI Coding Time: 25 mins (2.12%)
 
-✍️ 0 lines written by AI, 5,355 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 10,996 lines written by hand (0.0% AI-written)
 
-🔤 36,249 Input Tokens, 2,114 Output Tokens
+🔤 204,444 Input Tokens, 9,470 Output Tokens
 
-💵 $0.12 Estimated AI Cost This Week
+💵 $0.64 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 4 AI Prompts
+🧠 5 AI Sessions, 13 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 408 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 380 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -96,5 +96,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 06:41:05 UTC
+ Last Updated on 03/10/2026 06:03:21 UTC
 <!--END_SECTION:waka-->
