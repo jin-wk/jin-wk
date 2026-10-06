@@ -32,7 +32,7 @@
 
 ```text
 Monday                   3882 commits        █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Tuesday                  3801 commits        █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Tuesday                  3802 commits        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
 Wednesday                3764 commits        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
 Thursday                 4115 commits        █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
 Friday                   3023 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
@@ -47,26 +47,26 @@ Sunday                   66 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               16 hrs 40 mins      █████████████████████░░░░   84.52 % 
-JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Prisma                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-TSConfig                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+TypeScript               12 hrs 33 mins      █████████████████████░░░░   83.55 % 
+JSON                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Prisma                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+TSConfig                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 24 mins      █████████████████████████   98.36 % 
-Codex Vscode             19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+VS Code                  14 hrs 42 mins      ████████████████████████░   97.85 % 
+Codex Vscode             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 💻 Operating System: 
-Mac                      19 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (2.12%)
+⏱ AI Coding Time: 25 mins (2.79%)
 
-✍️ 0 lines written by AI, 10,996 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 10,029 lines written by hand (0.0% AI-written)
 
 🔤 204,444 Input Tokens, 9,470 Output Tokens
 
@@ -96,5 +96,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 06:34:24 UTC
+ Last Updated on 06/10/2026 07:10:23 UTC
 <!--END_SECTION:waka-->
