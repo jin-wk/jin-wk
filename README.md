@@ -22,20 +22,20 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C078%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C079%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.72%20million%20lines%20of%20code-blue?style=flat)
 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   3882 commits        █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Tuesday                  3802 commits        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-Wednesday                3764 commits        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-Thursday                 4115 commits        █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-Friday                   3023 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Monday                   3882 commits        █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+Tuesday                  3807 commits        █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+Wednesday                3765 commits        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Thursday                 4115 commits        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Friday                   3023 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
 Saturday                 78 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 Sunday                   66 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
@@ -47,39 +47,39 @@ Sunday                   66 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               12 hrs 33 mins      █████████████████████░░░░   83.55 % 
-JSON                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Prisma                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-TSConfig                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+TypeScript               11 hrs 28 mins      ██████████████████████░░░   87.19 % 
+JSON                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Prisma                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+TSConfig                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 42 mins      ████████████████████████░   97.85 % 
-Codex Vscode             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+VS Code                  12 hrs 49 mins      ████████████████████████░   97.40 % 
+Codex Vscode             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 💻 Operating System: 
-Mac                      15 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (2.79%)
+⏱ AI Coding Time: 26 mins (3.35%)
 
-✍️ 0 lines written by AI, 10,029 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 9,603 lines written by hand (0.0% AI-written)
 
-🔤 204,444 Input Tokens, 9,470 Output Tokens
+🔤 239,862 Input Tokens, 10,437 Output Tokens
 
-💵 $0.64 Estimated AI Cost This Week
+💵 $0.74 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 13 AI Prompts
+🧠 6 AI Sessions, 14 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 380 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 370 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -96,5 +96,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 07:10:23 UTC
+ Last Updated on 07/10/2026 06:53:14 UTC
 <!--END_SECTION:waka-->
