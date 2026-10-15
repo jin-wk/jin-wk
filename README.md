@@ -47,26 +47,26 @@ Sunday                   66 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               4 hrs 41 mins       ████████████████████████░   96.23 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+TypeScript               4 hrs 21 mins       █████████████████████████   98.59 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 47 mins       █████████████████████████   98.29 % 
-Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+VS Code                  4 hrs 20 mins       █████████████████████████   98.11 % 
+Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 💻 Operating System: 
-Mac                      4 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (2.99%)
+⏱ AI Coding Time: 8 mins (3.29%)
 
-✍️ 142 lines written by AI, 860 lines written by hand (14.17% AI-written)
+✍️ 142 lines written by AI, 637 lines written by hand (18.23% AI-written)
 
 🔤 56,791 Input Tokens, 4,992 Output Tokens
 
@@ -77,10 +77,10 @@ Mac                      4 hrs 52 mins       ███████████�
 GPT                      142 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.17% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 18.23% of written lines came from AI
 📝 Concise Prompter — average 398 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 96.03% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 88.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,5 +96,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 05:48:39 UTC
+ Last Updated on 15/10/2026 05:34:18 UTC
 <!--END_SECTION:waka-->
