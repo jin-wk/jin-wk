@@ -22,7 +22,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C089%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C090%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2014%20mins-blue?style=flat)
 
@@ -32,10 +32,10 @@
 
 ```text
 Monday                   3355 commits        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-Tuesday                  3253 commits        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Wednesday                3262 commits        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-Thursday                 3696 commits        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-Friday                   2793 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Tuesday                  3258 commits        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Wednesday                3262 commits        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Thursday                 3696 commits        ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+Friday                   2793 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
 Saturday                 28 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 Sunday                   56 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
@@ -47,13 +47,17 @@ Sunday                   56 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               47 mins             █████████████████████████   100.00 % 
+TypeScript               1 hr 31 mins        ██████████████████████░░░   86.94 % 
+JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      47 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -75,5 +79,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 05:48:06 UTC
+ Last Updated on 27/10/2026 05:57:59 UTC
 <!--END_SECTION:waka-->
